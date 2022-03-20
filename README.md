@@ -31,8 +31,8 @@
 </div>
   
 - 🔭 Trabalho com front-end
-- 🌱 Estudo aplicaçõe Mobile
+- 🌱 Estudando aplicações Mobile
 - 📫 Contate-me pelo e-mail: lucas13piran@gmail.com
-
+- 📫 Contate-me pelo wpp: (11) 94391-1139
   
   
