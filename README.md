@@ -1,4 +1,4 @@
-### Olá! Eu sou Lucas Piran 👋
+## Olá! Eu sou **Lucas Piran** 👋
 
 
 
@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/LuPiran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuPiran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuPiran&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuPiran&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuPiran&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -31,7 +31,7 @@
 </div>
   
 - 🔭 Trabalho com front-end
-- 🌱 Estudando aplicações Mobile
+- 🌱 Estudando Aplicações Mobile (Kotlin e Flutter) e Desenvolvimento de Jogos
 - 📫 Contate-me pelo e-mail: lucas13piran@gmail.com
 - 📫 Contate-me pelo wpp: (11) 94391-1139
   
