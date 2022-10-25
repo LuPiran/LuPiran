@@ -32,7 +32,7 @@
   ![Snake animation](https://github.com/LuPiran/LuPiran/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-- 🌱 Estudando Aplicações Mobile (Kotlin e Flutter) e Desenvolvimento de Jogos(c#)
+- 🌱 Estudando Sistemas de Informação na FIAP
 - 📫 Contate-me pelo e-mail: lucas13piran@gmail.com
 - 📫 Contate-me pelo wpp: (11) 94391-1139
   
